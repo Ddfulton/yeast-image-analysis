@@ -2,6 +2,10 @@
 
 Process raw data from an Image Analysis GUI into biologically relevant features suitable for data mining and machine learning algorithms.
 
+
+![alt tag](https://raw.githubusercontent.com/ddfulton/yeast-image-analysis/master/Dicentric Plasmid Example.png)
+
+
 Features ideally used to identify phenotypes of four budding yeast mutants (SIR2∆, YKU80∆, BRN1-9 and wild-type)  as they undergo mitosis on a dicentric plasmid.
 
 Written for the lab of Dr. Kerry Bloom in June 2016
